@@ -1,5 +1,8 @@
-console.log("shreyas singh") ;
-console.log("I love Javascript") ;
+//console.log("shreyas singh") ;
+//console.log("I love Javascript") ;
 
 FullName = "Tony stark" ;
-console.log(FullNmae)
+age = "24" ;
+price = "99" ;
+console.table([FullNmae , age , price] ) ;
+
