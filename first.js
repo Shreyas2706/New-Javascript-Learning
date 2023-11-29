@@ -4,5 +4,5 @@
 FullName = "Tony stark" ;
 age = "24" ;
 price = "99" ;
-console.table([FullNmae , age , price] ) ;
+console.table([age,price,FullName])
 
