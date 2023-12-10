@@ -18,13 +18,18 @@ console.table([price,FullName,x,IsFollow])*/
 price = 123 ;
 console.log(typeof price)*/
 
-const student = {
+/*const student = {
     fullName : "SHREYAS SINGH" ,
     age : 44 ,
     cgpa : 8.4 ,
     isPass : true ,
 } ;
-console.log(student)
+student ["fullName"] = "Rahul Sharma"
+console.log(student["fullName"]) */
+
+const product = {
+ 
+}
      
 
 
