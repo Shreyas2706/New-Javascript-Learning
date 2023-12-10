@@ -36,7 +36,7 @@ console.log(student["fullName"]) */
 
 console.log(product) ; */
 
-const profile = {
+/*const profile = {
     posts : 195 ,
     isFollow : true ,
     followers : 4 ,
@@ -47,6 +47,11 @@ const profile = {
 } ;
      console.log (profile) ;
      console.log(profile.posts) ;
-     console.log(typeof profile.posts)
+     console.log(typeof profile.posts) */
+
+     let a = 24 ;
+     let b = 23 ;
+     console.log("a+b= ",a+b) ;
+     
 
 
