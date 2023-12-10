@@ -27,14 +27,26 @@ console.log(typeof price)*/
 student ["fullName"] = "Rahul Sharma"
 console.log(student["fullName"]) */
 
-const product = {
+/*const product = {
  tittle : "Ball Pen" ,
  rating : 4 ,
  offer : 5 ,
  price : 270 ,
 } ;
 
-console.log(product) ;
-     
+console.log(product) ; */
+
+const profile = {
+    posts : 195 ,
+    isFollow : true ,
+    followers : 4 ,
+    fUllName : "Shradha Khapra" ,
+    ocuupation : "Entrepreneur" ,
+    about : "Apna college" ,
+
+} ;
+     console.log (profile) ;
+     console.log(profile.posts) ;
+     console.log(typeof profile.posts)
 
 
