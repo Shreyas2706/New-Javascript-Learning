@@ -24,7 +24,7 @@ const student = {
     cgpa : 8.4 ,
     isPass : true ,
 } ;
-
+console.log(student)
      
 
 
