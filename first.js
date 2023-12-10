@@ -28,8 +28,13 @@ student ["fullName"] = "Rahul Sharma"
 console.log(student["fullName"]) */
 
 const product = {
- 
-}
+ tittle : "Ball Pen" ,
+ rating : 4 ,
+ offer : 5 ,
+ price : 270 ,
+} ;
+
+console.log(product) ;
      
 
 
