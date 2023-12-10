@@ -1,13 +1,12 @@
 //console.log("shreyas singh") ;
 //console.log("I love Javascript") ;
 
-FullName = "Tony stark" ;
-age = "24" ;
+/*FullName = "Tony stark" ;
 price = "99" ;
 x = null ;
 IsFollow = false ;
-console.table([age,price,FullName,x,IsFollow])
-{
+console.table([price,FullName,x,IsFollow])*/
+/*{
     let a = 24 ;
     console.log(a) ;
 } 
@@ -17,4 +16,15 @@ console.table([age,price,FullName,x,IsFollow])
 
 }
 price = 123 ;
-console.log(typeof price)
+console.log(typeof price)*/
+
+const student = {
+    fullName : "SHREYAS SINGH" ,
+    age : 44 ,
+    cgpa : 8.4 ,
+    isPass : true ,
+} ;
+
+     
+
+
