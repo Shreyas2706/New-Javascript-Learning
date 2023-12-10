@@ -14,5 +14,7 @@ console.table([age,price,FullName,x,IsFollow])
 {
     let a = 32 ;
     console.log(a);
-    
+
 }
+price = 123 ;
+console.log(typeof price)
