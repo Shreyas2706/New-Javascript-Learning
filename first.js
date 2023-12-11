@@ -49,16 +49,23 @@ console.log(product) ; */
      console.log(profile.posts) ;
      console.log(typeof profile.posts) */
 
-     let a = 24 ;
+    // /* let a = 24 ;
+    //  let b = 23 ;
+    // console.log("a= ", a ,"&" ,"b = " , b )
+    //  console.log("a+b= ",a+b) ;
+    //  console.log("a-b = ",a-b) ;
+    //  console.log("a*b= ",a*b) ;
+    //  console.log("a/b = " , a/b ) ;
+    //  console.log("a%b = " , a%b) ;
+    //  console.log("a**b = " , a**b) ; */
+
+     // unnary operater 
+
+let a = 24 ;
      let b = 23 ;
-    console.log("a= ", a ,"&" ,"b = " , b )
-     console.log("a+b= ",a+b) ;
-     console.log("a-b = ",a-b) ;
-     console.log("a*b= ",a*b) ;
-     console.log("a/b = " , a/b ) ;
-     console.log("a%b = " , a%b) ;
-     console.log("a**b = " , a**b) ;
-     
+console.log("a= ", a ,"&" ,"b = " , b ) ;
+
+      
 
 
 
