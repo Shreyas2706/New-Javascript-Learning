@@ -64,8 +64,16 @@ console.log(product) ; */
 let a = 24 ;
      let b = 23 ;
 console.log("a= ", a ,"&" ,"b = " , b ) ;
+ 
+ console.log("a = " ,++a) ;    // 25
+ console.log("a = " , a++) ; 
+let c = 2 ;
+// c+= 2 ; // 4 
+// c-= 4 ; // -2
+// c*= 4 ; // 8 
+c 
 
-      
+console.log(c);
 
 
 
