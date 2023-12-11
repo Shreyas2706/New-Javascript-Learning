@@ -121,10 +121,18 @@ console.log(product) ; */
 
 // console.log(color)
 
-let num = 12 ;
-if (num%2 == 0) {
-    console.log("Even") ;
-}
-else {
-    console.log("Odd") ;
-}
+// let num = 12 ;
+// if (num%2 == 0) {
+//     console.log("Even") ;
+// }
+// else {
+//     console.log("Odd") ;
+// }
+
+// Ternary operator 
+
+let age = 25 ;
+let result = age >= 18 ? "Adult" : "not Adult" ;
+
+console.log(result) ; 
+
