@@ -109,14 +109,22 @@ console.log(product) ; */
 //     console.log("Not Adult")
 // }
  
-let mode = "dark" ;
-let color ;
+// let mode = "dark" ;
+// let color ;
 
-if(mode === "dark") {
-color = "black ";
-}
-if (mode === "Light") {
-    color = "Light"
-}
+// if(mode === "dark") {
+// color = "black ";
+// }
+// if (mode === "Light") {
+//     color = "Light"
+// }
 
-console.log(color)
+// console.log(color)
+
+let num = 12 ;
+if (num%2 == 0) {
+    console.log("Even") ;
+}
+else {
+    console.log("Odd") ;
+}
