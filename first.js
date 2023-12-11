@@ -61,23 +61,51 @@ console.log(product) ; */
 
      // unnary operater 
 
-let a = 24 ;
-     let b = 23 ;
-console.log("a= ", a ,"&" ,"b = " , b ) ;
+// let a = 24 ;
+//      let b = 23 ;
+// console.log("a= ", a ,"&" ,"b = " , b ) ;
  
- console.log("a = " ,++a) ;    // 25
- console.log("a = " , a++) ; 
+//  console.log("a = " ,++a) ;    // 25
+//  console.log("a = " , a++) ; 
 
 // assingmnet operator 
 
-let c = 2 ;
-// c+= 2 ; // 4 
-// c-= 4 ; // -2
-// c*= 4 ; // 8 
-//c/=2 ; // 1 
-//  c**=4 ; // 16 
+// let c = 2 ;
+// // c+= 2 ; // 4 
+// // c-= 4 ; // -2
+// // c*= 4 ; // 8 
+// // c/=2 ; // 1 
+// //  c**=4 ; // 16 
 
-console.log(c);
+// console.log(c);
 
+/////// comparison operator //////
 
+// let a = 5 ; // number
+// let b = "5"; // string
 
+// console.log("a!==b" , a!==b) ; // false 
+
+// Logical operator 
+
+// let a = 6 ;
+// let b = 5 ;
+
+// let cond1 = a>b ;
+// let cond2 = a==6 ;
+ 
+// let cond1 = a==b ;
+// let cond2 = a>b ; 
+ 
+// console.log("cond1 || cond2 = ", cond1 || cond2) ;
+
+/// Conditional Statement  !!!!! ....
+
+let age = 12 ;
+
+if (age>18) {
+    console.log("Adult")
+} else {
+    console.log("Not Adult")
+}
+ 
