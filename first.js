@@ -67,11 +67,15 @@ console.log("a= ", a ,"&" ,"b = " , b ) ;
  
  console.log("a = " ,++a) ;    // 25
  console.log("a = " , a++) ; 
+
+// assingmnet operator 
+
 let c = 2 ;
 // c+= 2 ; // 4 
 // c-= 4 ; // -2
 // c*= 4 ; // 8 
-c 
+//c/=2 ; // 1 
+//  c**=4 ; // 16 
 
 console.log(c);
 
