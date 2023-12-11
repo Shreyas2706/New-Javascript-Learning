@@ -109,4 +109,14 @@ console.log(product) ; */
 //     console.log("Not Adult")
 // }
  
-let mode = 
+let mode = "dark" ;
+let color ;
+
+if(mode === "dark") {
+color = "black ";
+}
+if (mode === "Light") {
+    color = "Light"
+}
+
+console.log(color)
