@@ -138,9 +138,9 @@ console.log(product) ; */
 
 ///// Take Input //////
 //alert("hello")
-let name = prompt("Enter a Numner") ; 
+let name = prompt("Enter a Numner to check weather it is a multiple of 5 or not") ; 
 if (name%5 == 0 ) {
-    console.log("Multiple of Five")
+    console.log(name,"Is a Multiple of Five")
 } else {
-    console.log("Not a Multiple of Five")
+    console.log(name ,"Not a Multiple of Five")
 }
