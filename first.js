@@ -137,10 +137,45 @@ console.log(product) ; */
 // console.log(result) ; 
 
 ///// Take Input //////
+
+
 //alert("hello")
-let name = prompt("Enter a Numner to check weather it is a multiple of 5 or not") ; 
-if (name%5 == 0 ) {
-    console.log(name,"Is a Multiple of Five")
-} else {
-    console.log(name ,"Not a Multiple of Five")
+// let name = prompt("Enter a Number to check weather it is a multiple of 5 or not") ; 
+// if (name%5 == 0 ) {
+//     console.log(name,"Is a Multiple of Five")
+// } else {
+//     console.log(name ,"Not a Multiple of Five")
+// }
+
+/////practice input queation //////
+
+let score = prompt("Enter your score out of 100 ") ;
+if (score>100) {
+    console.log("Invalid score entered ") ;
 }
+
+else if (score<=100 && score>=90) {
+    console.log(score , "You got grade A ")
+}
+
+else if (score<=89 && score>=70) {
+    console.log(score , "You got grade B")
+} 
+
+else if (score<=69 && score>=60) {
+    console.log(score , "You got grade c")
+}
+
+else if (score<=59 && score>=50) {
+    console.log(score , "You got grade D")
+}
+
+else if (score<=49 && score>=0) {
+    console.log(score , "You got grade F")
+} else {
+    console.log("Invalid score entered")
+}
+
+
+
+
