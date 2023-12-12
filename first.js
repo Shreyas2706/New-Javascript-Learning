@@ -131,8 +131,16 @@ console.log(product) ; */
 
 // Ternary operator 
 
-let age = 25 ;
-let result = age >= 18 ? "Adult" : "not Adult" ;
+// let age = 25 ;
+// let result = age >= 18 ? "Adult" : "not Adult" ;
 
-console.log(result) ; 
+// console.log(result) ; 
 
+///// Take Input //////
+//alert("hello")
+let name = prompt("Enter a Numner") ; 
+if (name%5 == 0 ) {
+    console.log("Multiple of Five")
+} else {
+    console.log("Not a Multiple of Five")
+}
