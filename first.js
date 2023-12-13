@@ -177,9 +177,11 @@ console.log(product) ; */
 // }
 
 
-///////// FOR LOOPS /////////////
+///////// FOR LOOPS /////////
 
+// for (i=1 ;i<=100 ; i++) {
+//     console.log("Shreyas Is here")
+// }
+// console.log("loop has ended")
 
-
-
-
+///// sum of first n number ////
